@@ -5,7 +5,7 @@ from agent import FinancialAgent
 st.set_page_config(page_title="Fin-Agent", layout="wide")
 
 st.title("⚡ Agentic Financial Analyst")
-st.markdown("### Enterprise-Grade Document Reasoning System")
+st.markdown("### Financial Document Reasoning System")
 
 # This ensures the agent and file persist
 if "agent" not in st.session_state:
