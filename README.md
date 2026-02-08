@@ -82,7 +82,7 @@ uv run streamlit run app.py
 
 Once the application is running, follow this workflow to demonstrate the system's capabilities:
 
-- Upload & Cache: Open the sidebar and upload a complex PDF (e.g., an Annual Report). The system will process it once and cache it.
+- Upload & Cache: Open the sidebar and upload a PDF (e.g., an Annual Report). The system will process it once and cache it.
 
 - Ask Reasoning Questions: Enter questions like "What is the Year-over-Year revenue growth?" or "Summarize the primary risk factors mentioned."
 
